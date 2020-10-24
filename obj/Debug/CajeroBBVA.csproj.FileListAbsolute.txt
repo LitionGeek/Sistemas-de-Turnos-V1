@@ -1,0 +1,46 @@
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csprojAssemblyReference.cache
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.CajeroBBVA.resources
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.Properties.Resources.resources
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.exe.config
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.exe
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.pdb
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.exe
+C:\Users\jair\source\repos\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.pdb
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.exe.config
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.exe
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.pdb
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csprojAssemblyReference.cache
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.CajeroBBVA.resources
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.Properties.Resources.resources
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csproj.GenerateResource.cache
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csproj.CoreCompileInputs.cache
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.exe
+\\eu.boehringer.com\users\bai\users2\desanjoa\Desktop\facu\Segundo cuatri\Programacion\CajeroBBVA\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.pdb
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.exe.config
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.exe
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.pdb
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csprojAssemblyReference.cache
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.CajeroBBVA.resources
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.Properties.Resources.resources
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csproj.GenerateResource.cache
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csproj.CoreCompileInputs.cache
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.exe
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.pdb
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\bin\Debug\es-AR\CajeroBBVA.resources.dll
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.CajeroBBVA.es-AR.resources
+C:\Users\LitionGeek\Desktop\CajeroBBVA\CajeroBBVA\obj\Debug\es-AR\CajeroBBVA.resources.dll
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.exe.config
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.exe
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\bin\Debug\CajeroBBVA.pdb
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\bin\Debug\es-AR\CajeroBBVA.resources.dll
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csprojAssemblyReference.cache
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.CajeroBBVA.resources
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.Properties.Resources.resources
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.CajeroBBVA.es-AR.resources
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csproj.GenerateResource.cache
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.csproj.CoreCompileInputs.cache
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\es-AR\CajeroBBVA.resources.dll
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.exe
+C:\Users\LitionGeek\Desktop\Programacion I\CajeroBBVA\CajeroBBVA\obj\Debug\CajeroBBVA.pdb
